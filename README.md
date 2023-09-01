@@ -50,6 +50,23 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 <p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
 
+## Blockin.ai
+
+### Description and Pricing
+
+[Blockin.ai](https://blockin.ai) is a service provider that offers a range of APIs for various elements linked with Blockchain technology. These include APIs for chains, protocols, users, tokens, NFTs, mirrors, subscriptions, and pricing. The service supports prominent chains like Ethereum, BNB Chain, Polygon, Avalanche, Optimism, Base, Arbitrum, Bitcoin, Solana, Sui, Aptos, and many more.
+
+Key features of Blockin.ai cover: 
+- Portfolio tracking
+- On-chain analytics
+- Trading analytics
+- NFT analytics 
+- Token analytics
+- Portfolio analytics 
+- Mirror trading
+
+There are free subscription plans available for users. If you need access to higher demanding tiers, the pricing averages to around 200 USD per 1 million units.
+
 ### Etherspot
 
 Etherspot gives developers and their applications the ability to use one or all
